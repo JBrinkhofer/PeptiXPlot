@@ -1,0 +1,15 @@
+# Requires Python 3.12
+filelock==3.32.2
+matplotlib==3.11.1
+molmass==2026.8.15
+natsort==8.4.0
+numpy==2.5.1
+orjson==3.11.9
+pandas==3.0.5
+Pillow==11.3.0
+pybaselines==1.2.1
+PyWavelets==1.10.0
+scipy==1.18.0
+zstandard==0.25.0
+tksheet==7.6.0
+ttkbootstrap==2.2.3
